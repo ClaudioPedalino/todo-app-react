@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/ClaudioPedalino/todoer",
-  "name": "todoer",
+  "homepage": "https://ClaudioPedalino.github.io/todo-app-react",
+  "name": "todo-app-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
