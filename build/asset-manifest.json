@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClaudioPedalino/todoer/static/css/main.cd47c349.css",
+    "main.js": "/ClaudioPedalino/todoer/static/js/main.a7d50cb6.js",
+    "index.html": "/ClaudioPedalino/todoer/index.html",
+    "main.cd47c349.css.map": "/ClaudioPedalino/todoer/static/css/main.cd47c349.css.map",
+    "main.a7d50cb6.js.map": "/ClaudioPedalino/todoer/static/js/main.a7d50cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd47c349.css",
+    "static/js/main.a7d50cb6.js"
+  ]
+}
